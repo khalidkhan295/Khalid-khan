@@ -1,0 +1,6 @@
+{
+  "name": "Task Money BD",
+  "description": "টাস্ক সম্পন্ন করে আয় করুন এবং বিকাশে উত্তোলন করুন — Task Money BD",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
